@@ -1,0 +1,54 @@
+h1 {
+    text-align: center;
+    font-weight: 700;
+
+}
+
+p {
+    text-align: center
+}
+
+.start-image {
+    display: block;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer {
+    background-color: lightslategray;
+}
+
+.container {
+    padding: 30px;
+}
+
+h6 {
+    color: white;
+    font-weight: bold;
+    text-align: start;
+}
+
+ul {
+    list-style: none;
+
+}
+
+
+
+ul a {
+    text-decoration: none;
+}
+
+.top-five {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+
+.card {
+    padding: 10px;
+
+    margin: 10px;
+}
